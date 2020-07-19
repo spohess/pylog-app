@@ -1,2 +1,2 @@
-# pylog-app
-Lib to crate file log
+# PyLogAPP
+Package to append app menssages to an log file
